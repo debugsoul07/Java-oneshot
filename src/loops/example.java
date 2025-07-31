@@ -11,7 +11,7 @@ public class example {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter the no ");
+        System.out.println("Enter the no between 1 to 1000 ");
 
         int n = input.nextInt();
         int sum = 0;
